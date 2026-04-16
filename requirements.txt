@@ -1,4 +1,4 @@
-torch
-transformers
-pyfiglet
+torch==2.2.1
+transformers==4.38.2
+pyfiglet==1.0.4
 git+https://github.com/superannotateai/generated_text_detector.git@v1.1.0
