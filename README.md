@@ -22,15 +22,40 @@ TL;DR: you should probably read it tho cause I am amazing and it's been a while 
 
 But if you really don't want to, you have the instructions right below.
 
----
+<p align="center">
+✧ ────────────── ✧ ────────────── ✧ ────────────── ✧
+</p>
 
-Yeah, it's not the newest most accurate detector (but it's not really old GPT-2 style either, which I did before and it was really bad, this is much much better; it gives similar results to QuillBot from my testing). But it is a free option and it is offline. Because you **shouldn't** paste all your papers' content into online tools. So it is good just to give you an idea and it feels cool to have it, so, basically here is how you can easily get it running on your machine as well. I made sure it looks pretty too. Minimalist but cute. 
+<table align="center">
+<tr>
+<td width="700">
+<p align="center">
+Yeah, it's not the newest most accurate detector (but it's not really old GPT-2 style either, which I did before and it was really bad, this is much much better; it gives similar results to QuillBot from my testing). But it is a free option and it is offline. Because you <b>shouldn't</b> paste all your papers' content into online tools. So it is good just to give you an idea and it feels cool to have it, so, basically here is how you can easily get it running on your machine as well. I made sure it looks pretty too. Minimalist but cute. </p>  
 
-And yeah it just is cool to have and play around with okay, don't trust these things 100%. I wrote an abstract to a paper once, it took me 5h to write it ALL MYSELF but it gave 67% AI or smth. Apparently, you can't be smart anymore these days smh. Like uhm I just know how to write formally if I really take the time, excuse me 🙄. I can also write like this which is very much the opposite of formal writing, yeah? also, yes, I'm writing a cake recipe story before the instructions because who cares, I am tired of AI slop. I am an AI user myself! It is very useful and valuable but stop using it ***EVERYWHERE***, I am going insane. If y'all can't write a sentence without it fine but at least cut the fillers and keep the essential info only, stop wasting our time with *"here is the truth no one has told you before"* garbage. iykyk.
+<p align="center">
+And yeah it just is cool to have and play around with okay, don't trust these things 100%. I wrote an abstract to a paper once, it took me 5h to write it ALL MYSELF but it gave 67% AI or smth. Apparently, you can't be smart anymore these days smh. Like uhm I just know how to write formally if I really take the time, excuse me 🙄. I can also write like this which is very much the opposite of formal writing, yeah? also, yes, I'm writing a cake recipe story before the instructions because who cares, I am tired of AI slop. I am an AI user myself! It is very useful and valuable but stop using it <b><i>EVERYWHERE</i></b>, I am going insane. If y'all can't write a sentence without it fine but at least cut the fillers and keep the essential info only, stop wasting our time with <i>"here is the truth no one has told you before"</i> garbage. iykyk. </p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<sub><i>
+PS: Don't mind this weird formatting, I have no idea what I'm doing. I'm just trying to make it easier to look at idk.
+</sub></i>
+</p>
+
+<p align="center">
+✧ ───────────── ✧ ───────────── ✧ ───────────── ✧
+</p><br>
+
+
 
 So, whatever, if the only way to not be considered AI today is to write informal stuff in formal settings then so be it.  
 
 Anyway, below you will find the instructions.
+
+---
 
 ## Requirements
 
