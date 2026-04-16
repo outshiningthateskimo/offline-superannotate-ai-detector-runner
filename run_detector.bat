@@ -6,7 +6,6 @@ call "%ROOT%env\Scripts\activate"
 
 set HF_HOME=%ROOT%hf_cache
 set HUGGINGFACE_HUB_CACHE=%ROOT%hf_cache
-set TRANSFORMERS_CACHE=%ROOT%hf_cache
 
 set HF_HUB_OFFLINE=1
 set TRANSFORMERS_OFFLINE=1
